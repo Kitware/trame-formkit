@@ -7,7 +7,7 @@ This directory capture the steps to enable FormKit into trame-formkit.
 ```bash
 export SRC_URL=https://cdn.jsdelivr.net/npm/
 export DST_PATH=../trame_formkit/module/serve
-export VERSION=@formkit/vue@1.0.0-beta.15
+export VERSION=@formkit/vue@1.0.0-beta.16
 
 mkdir -p $DST_PATH
 
