@@ -1,5 +1,12 @@
+"""Formkit Widgets only support vue3.
+"""
 from trame_client.widgets.core import AbstractElement, Template
 from .. import module
+
+__all__ = [
+    "FormKit",
+    "FormKitSchema",
+]
 
 # FormKit section keys
 slot_names = [
